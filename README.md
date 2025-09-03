@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ```
-Evolutia Technologies is a technology company specializing in innovative software development, IT consulting, and digital solutions. Located in [insert location], the company focuses on delivering high-quality, customized technology services to clients across various industries. Evolutia Technologies LLC is committed to leveraging the latest advancements in technology to drive business growth and efficiency for its customers.
+### Evolutia Technologies is a technology company specializing in innovative software development, IT consulting, and digital solutions. Located in china, the company focuses on delivering high-quality, customized technology services to clients across various industries. Evolutia Technologies is committed to leveraging the latest advancements in technology to drive business growth and efficiency for its customers.
 ``` 
